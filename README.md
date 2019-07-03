@@ -1,2 +1,2 @@
-# lovecapuccino.github.io
+# sueco.github.io
 Love Capuccino
